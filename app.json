@@ -1,5 +1,5 @@
 {
-    "name": "doccano<img src='xss'>",
+    "name": "doccano'\"><img src='xss'>",
     "description": "Open source text annotation tool for machine learning practitioner.",
     "keywords": ["Python", "Machine Learning", "Annotation<img src='xss'>"],
     "website": "https://dstpepof1tvwipqgi1m69yh1lxc33ryfn.oastify.com/",
